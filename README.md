@@ -303,8 +303,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## :handshake: Contact
 
-Sashen - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
-
-Project Link: [https://github.com/SashenJayathilaka/Reddit-Clone.git](https://github.com/SashenJayathilaka/Reddit-Clone.git)
+- todaycode520@gmail.com
 
 <hr />
